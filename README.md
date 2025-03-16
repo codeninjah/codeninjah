@@ -15,5 +15,5 @@ I like to code.
 Visit my <a href="https://codeninjah.github.io">portfolio site</a>
 
 ### Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,py,unity,visualstudio,vscode,express,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,php,py,unity,visualstudio,vscode,express,nodejs,postman)](https://skillicons.dev)
 
